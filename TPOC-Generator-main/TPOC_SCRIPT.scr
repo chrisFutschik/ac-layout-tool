@@ -1,0 +1,506 @@
+(command) ATTDIA 0 ATTREQ 0
+(command) -DWGUNITS 1 2 4 Y Y
+(command) PDMODE 35
+(command) ERASE All 
+(command) PURGE A * N
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M01.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M02.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M03.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M04v.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M05v.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M06.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M07.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M08.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M09v.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M10v.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M11.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M12.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M13.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M14v.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M15v.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M16.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M17.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCM.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M18.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 5.905511811023622 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M19v.dwg" * ERASE 2.952755905511811,0,0 
+(command) ERASE ALL 
+(command) -INSERT "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\TPOCMv.dwg" 0,0,0 1   EXPLODE 0,0,0
+(command) -layer set A-EQPM-POCM  CYLINDER 0,0,0 d 3.937007874015748 a 0,2,0 -WBLOCK "C:\Users\ChristianFutschik\go\src\ac-layout-tool\TPOC-Generator-main\TPOCs\M20v.dwg" * ERASE 1.968503937007874,0,0 
+(command) ERASE ALL 
+(command) ATTDIA 1 ATTREQ 1
+-insert "M01.dwg" 0,0,0 1 1 0 M01 EXSC 150mm
+﻿PRB
+M01
+EXSC
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M01" "M01 EXSC 150mm"
+
+
+-insert "M02.dwg" 5,0,0 1 1 0 M02 EXSC 100mm
+﻿PRB
+M02
+EXSC
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M02" "M02 EXSC 100mm"
+
+
+-insert "M03.dwg" 10,0,0 1 1 0 M03 EXSC 150mm
+﻿PRB
+M03
+EXSC
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M03" "M03 EXSC 150mm"
+
+
+-insert "M04v.dwg" 15,0,0 1 1 0 M04 EXSC 100mm
+﻿PRB
+M04
+EXSC
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M04v" "M04 EXSC 100mm"
+
+
+-insert "M05v.dwg" 20,0,0 1 1 0 M05 EXSC 150mm
+﻿PRB
+M05
+EXSC
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M05v" "M05 EXSC 150mm"
+
+
+-insert "M06.dwg" 25,0,0 1 1 0 M06 EXVO 100mm
+﻿PRB
+M06
+EXVO
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M06" "M06 EXVO 100mm"
+
+
+-insert "M07.dwg" 30,0,0 1 1 0 M07 EXVO 150mm
+﻿PRB
+M07
+EXVO
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M07" "M07 EXVO 150mm"
+
+
+-insert "M08.dwg" 35,0,0 1 1 0 M08 EXVO 100mm
+﻿PRB
+M08
+EXVO
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M08" "M08 EXVO 100mm"
+
+
+-insert "M09v.dwg" 40,0,0 1 1 0 M09 EXVO 150mm
+﻿PRB
+M09
+EXVO
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M09v" "M09 EXVO 150mm"
+
+
+-insert "M10v.dwg" 45,0,0 1 1 0 M10 EXVO 100mm
+﻿PRB
+M10
+EXVO
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M10v" "M10 EXVO 100mm"
+
+
+-insert "M11.dwg" 50,0,0 1 1 0 M11 EXSC 150mm
+EXF
+M11
+EXSC
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M11" "M11 EXSC 150mm"
+
+
+-insert "M12.dwg" 55,0,0 1 1 0 M12 EXSC 100mm
+EXF
+M12
+EXSC
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M12" "M12 EXSC 100mm"
+
+
+-insert "M13.dwg" 60,0,0 1 1 0 M13 EXSC 150mm
+EXF
+M13
+EXSC
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M13" "M13 EXSC 150mm"
+
+
+-insert "M14v.dwg" 65,0,0 1 1 0 M14 EXSC 100mm
+EXF
+M14
+EXSC
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M14v" "M14 EXSC 100mm"
+
+
+-insert "M15v.dwg" 70,0,0 1 1 0 M15 EXSC 150mm
+EXF
+M15
+EXSC
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M15v" "M15 EXSC 150mm"
+
+
+-insert "M16.dwg" 75,0,0 1 1 0 M16 EXVO 100mm
+EXF
+M16
+EXVO
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M16" "M16 EXVO 100mm"
+
+
+-insert "M17.dwg" 80,0,0 1 1 0 M17 EXVO 150mm
+EXF
+M17
+EXVO
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M17" "M17 EXVO 150mm"
+
+
+-insert "M18.dwg" 85,0,0 1 1 0 M18 EXVO 100mm
+EXF
+M18
+EXVO
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M18" "M18 EXVO 100mm"
+
+
+-insert "M19v.dwg" 90,0,0 1 1 0 M19 EXVO 150mm
+EXF
+M19
+EXVO
+150mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M19v" "M19 EXVO 150mm"
+
+
+-insert "M20v.dwg" 95,0,0 1 1 0 M20 EXVO 100mm
+EXF
+M20
+EXVO
+100mm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-rename Block "M20v" "M20 EXVO 100mm"
+
+

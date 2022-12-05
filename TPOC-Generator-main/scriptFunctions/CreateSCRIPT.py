@@ -174,9 +174,8 @@ os.remove('TPOC_GEN.txt')
 
 if path.exists('TPOC_SCRIPT.scr'):
 	os.remove('TPOC_SCRIPT.scr')
-	os.rename(r'TPOC_SCRIPT.txt',r'TPOC_SCRIPT.scr')
-else:
-	os.rename(r'TPOC_SCRIPT.txt',r'TPOC_SCRIPT.scr')
+
+os.rename(r'TPOC_SCRIPT.txt',r'TPOC_SCRIPT.scr')
 
 # Final display message 
 

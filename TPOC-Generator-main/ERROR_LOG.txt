@@ -1,0 +1,2 @@
+1. TYPE ERROR (Type 1): [E03] not a standard type -> [ E03 elec] will be omitted [TPOC_INFO.csv - line:21].
+2. REFERENCE ERROR (Type 2): [M20] has already been specified -> [M20 EXVO 100mm] will be omitted [TPOC_INFO.csv - line:22].
