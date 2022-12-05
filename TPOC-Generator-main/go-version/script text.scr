@@ -1,0 +1,26 @@
+(command) ATTDIA 0 ATTREQ 0
+(command) -DWGUNITS 3 2 2 Y Y
+(command) -LAYER Make FBS_Tags Color T 255,0,0
+(command) -TEXT -1000,-1000,0 250 0 X.YY.ZZZ00
+(command) MOVE -999,-999,0  -1000,-1000,0 2000,2000,0
+(command) -TEXT -1000,-1000,0 250 0 A.AA.AA00
+(command) MOVE -999,-999,0  -1000,-1000,0 1000,1000,0
+(command) ATTDIA 1 ATTREQ 1
+
+
+Command: -LAYER
+Current layer:  "0"
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: new
+Enter name list for new layer(s): FBS_Tags
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: color
+New color [Truecolor/COlorbook] : T
+Red,Green,Blue: Red
+Invalid color.  Type three comma separated values from 0 to 255.
+Red,Green,Blue: 255
+Invalid color.  Type three comma separated values from 0 to 255.
+Red,Green,Blue: 255,0,0
+Enter name list of layer(s) for color 255,0,0 <0>: FBS_Tags
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: set
+Enter layer name to make current or <select object>: FBS_Tags
+Enter an option [?/Make/Set/New/Rename/ON/OFF/Color/Ltype/LWeight/TRansparency/MATerial/Plot/Freeze/Thaw/LOck/Unlock/stAte/Description/rEconcile/Xref]: *Cancel*
+Command:
